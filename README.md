@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rachel Roy (@RachelR2609)
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently adding to my skills in Java that I gained While at University 
+- 🌱 I’m currently adding to my skills in Java that I gained while at University 
 - 💞️ I’m looking for Graduate opportunities to undertake after my graduation in July 
 - 📫 How to reach me - Email: 11royr2@gmail.com
                       
