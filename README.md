@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rachel Roy (@RachelR2609)
 - 👀 I’m interested in .Net Software Development 
-- 🌱 I’m currently lokking for new .Net oppportunities 
+- 🌱 I’m currently looking for new .Net oppportunities 
 - 📫 How to reach me - Email: 11royr2@gmail.com
                       
 
